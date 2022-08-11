@@ -44,7 +44,7 @@ TextLabel.BorderSizePixel = 0
 TextLabel.Position = UDim2.new(0.0768115819, 0, 0.068296887, 0)
 TextLabel.Size = UDim2.new(0.842857122, 0, 0.0322580636, 0)
 TextLabel.Font = Enum.Font.SourceSansSemibold
-TextLabel.Text = "Made by ibrahim Dew"
+TextLabel.Text = "Made by tomW#0001"
 TextLabel.TextColor3 = Color3.new(1, 1, 1)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14
@@ -506,7 +506,7 @@ end
 end)
 
 Btools.MouseButton1Click:connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/T0qaXjAR", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/tomcozzo55/zombieattackgui/main/btools", true))()
 end)
 
 Gravity.MouseButton1Click:connect(function()
